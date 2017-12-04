@@ -1,0 +1,15 @@
+package:
+  name: soapfuse
+  version: "1.27"
+
+source:
+  fn: SOAPfuse-v1.27.tar.gz
+  url: http://localhost:8080/SOAPfuse-v1.27.tar.gz
+  md5: 9033264bb6df18ee72cbccab46c860e3
+
+build:
+  number: 0
+
+about:
+  home: http://soap.genomics.org.cn/soapfuse.html
+  license: MIT

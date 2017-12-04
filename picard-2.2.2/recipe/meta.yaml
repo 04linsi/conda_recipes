@@ -1,0 +1,15 @@
+package:
+  name: picard
+  version: "2.2.2"
+
+source:
+  fn: picard-2.2.2.tar.gz
+  url: http://localhost:8080/picard-2.2.2.tar.gz
+  md5: fa3bd3f8cd82defe9d76c1ac5883dacd
+
+build:
+  number: 0
+
+about:
+  home: http://broadinstitute.github.io/picard/
+  license: MIT

@@ -1,0 +1,15 @@
+package:
+  name: gatk
+  version: "3.8.0"
+
+source:
+  fn: GenomeAnalysisTK.jar
+  url: http://localhost:8080/GenomeAnalysisTK.jar
+  md5: d08fdeb1de560925ad00bd2e228240b9
+
+build:
+  number: 0
+
+about:
+  home: http://www.broadinstitute.org/gatk/
+  license: MIT
